@@ -1,0 +1,22 @@
+# Dependencies
+node_modules
+
+# Build output (uncomment for gh-pages manual deploy)
+# dist
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Cache
+.eslintcache
+.cache
+dist/
